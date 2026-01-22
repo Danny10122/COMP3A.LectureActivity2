@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.Write("Enter the first number:");
+            Console.ReadLine();
+            Console.Write("Emter the second number:");
+            Console.ReadLine();
+            Console.WriteLine("\nUsing Concatenation");
+
         }
     }
 }
